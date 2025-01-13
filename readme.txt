@@ -1,0 +1,1 @@
+Spring cloud 2023.0.4、spring-boot-starter-parent 3.3.1高版本 ，用nacos做注册中心。
