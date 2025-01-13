@@ -2,7 +2,7 @@
 								
 # 描述
 
-使用Spring Cloud Gateway作为网关服务，Nacos作为注册中心，实现对子服务的负载均衡访问。简单例子				
+使用Spring Cloud Gateway作为网关服务，Nacos作为注册中心，实现对子服务的负载均衡访问，简单例子。				
 Spring低版本，涉及到一堆的漏洞整改，升级Spring框架到较新的版本。找到适配版本太过于麻烦。
 
 # 项目结构
